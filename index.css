@@ -2602,6 +2602,7 @@
   .u-section-8 .u-list-1 {
     margin-bottom: 0;
     margin-top: 22px;
+    min-height: 524px;
   }
 
   .u-section-8 .u-repeater-1 {
@@ -2711,6 +2712,10 @@
 
   .u-section-8 .u-btn-9 {
     font-size: 0.875rem;
+  }
+
+  .u-section-8 .u-gallery-nav-1 {
+    top: 208px;
   }
 
   .u-section-8 .u-gallery-nav-2 {
@@ -2960,6 +2965,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 397px;
+  }
+
   .u-section-9 .u-text-1 {
     font-size: 1.5rem;
     width: auto;
